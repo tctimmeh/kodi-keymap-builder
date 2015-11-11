@@ -53,7 +53,7 @@ class KeymapBuilderApp(object):
         doc.appendChild(root)
 
         remote = doc.createElement('remote')
-        remote.setAttribute('device', 'mcsusb')
+        remote.setAttribute('device', 'mceusb')
         root.appendChild(remote)
 
         for input in self.inputs:
