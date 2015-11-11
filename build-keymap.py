@@ -106,7 +106,8 @@ class KeymapBuilderApp(object):
                 action_text = doc.createTextNode(action)
                 action_element.appendChild(action_text)
 
-        print(doc.toprettyxml())
+        with open('keymap.xml', 'w') as output_file:
+            output_file.write(doc.toprettyxml())
 
 
 if __name__ == '__main__':
