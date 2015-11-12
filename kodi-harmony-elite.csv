@@ -26,7 +26,7 @@ Info,Info,More,,Info,OSD,OSD,Close,Close,Close,Space,,MoveItemUp,MoveItemUp
 Red,Red,KEY_RED,,OSD,,,,,,,,,
 Green,Green,KEY_GREEN,,ShowTime,,,,,,,,,
 Yellow,Yellow,KEY_YELLOW,,,,,,,,,,,
-Blue,Blue,KEY_BLUE,,Container.Refresh,,,,,,,,,
+Blue,Blue,KEY_BLUE,,,,,,,,,,,
 1,"keypad 1",KEY_1,,Number1,,,,,,,,,
 2,"keypad 2",KEY_2,,Number2,,,,,,,,,
 3,"keypad 3",KEY_3,,Number3,,,,,,,,,
