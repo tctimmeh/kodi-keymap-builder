@@ -1,6 +1,6 @@
 function,physical,key,reserved,global,Visualisation,FullscreenVideo,FullscreenInfo,VideoOSD,MusicOSD,VirtualKeyboard,ContextMenu,VideoPlaylist,MusicPlaylist
 Rotate,Rec,q,,Queue,,,,,,,,Delete,Delete
-ContextMenu,DVR,c,,ContextMenu,,,,,,,,,
+ContextMenu,DVR,c,,ContextMenu,,ShowSubtitles,,,,Backspace,,MoveItemDown,MoveItemDown
 Screenshot,Guide,l,,Playlist,,,,,,,,,
 Play,Play,p,,Play,,,,,,,,,
 Pause,Pause,space,,PlayPause,,,,,,Backspace,,,
